@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56925bf3-622f-474e-9d44-9014bdfb0824" name="更改" comment="set vite config base" />
+    <list default="true" id="56925bf3-622f-474e-9d44-9014bdfb0824" name="更改" comment="set vite config base">
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-B_X-3ixK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-CfBntJxg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778333283185</updated>
-      <workItem from="1778333284198" duration="548000" />
+      <workItem from="1778333284198" duration="2402000" />
     </task>
     <task id="LOCAL-00001" summary="set vite config base">
       <option name="closed" value="true" />
@@ -53,7 +59,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778333319306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="set vite config base">
+      <option name="closed" value="true" />
+      <created>1778333854076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778333854076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
